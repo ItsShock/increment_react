@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="2.802">
+  <testsuite name="List tests" errors="0" failures="0" skipped="0" timestamp="2021-06-02T01:08:27" time="1.757" tests="3">
+    <testcase classname="List tests" name="Poprawnie dodano przycisk do komponentu" time="0.027">
+    </testcase>
+    <testcase classname="List tests" name="Po kliknięciu w button jednokrotnie, wartość ustawia się na 1" time="0.005">
+    </testcase>
+    <testcase classname="List tests" name="Po kliknięciu w button wieloktornie, wartość zwiększa się poprawnie" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
